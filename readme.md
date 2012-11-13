@@ -1,4 +1,4 @@
-**We've moved! Be sure to update your remotes to point at the Bitovi Organization(Jupiter is now Bitovi)**
+MOVED TO [https://github.com/bitovi/canjs](http://github.com/bitovi/canjs)
 
 If you've accidentally pulled this repo, be sure to `git reset --hard HEAD~1` and pull from the new origin: `git://github.com/bitovi/canjs.git`
 
