@@ -1,10 +1,12 @@
+**UPDATE**
+
 This repo has moved to https://github.com/bitovi/canjs because Jupiter JS has changed its name to [Bitovi](http://bitovi.com).
 
-If you've cloned this repo, update your remote:
+If you've already cloned this repo, update your remote by:
 * git remote rm origin
 * git remote add origin git://github.com/bitovi/canjs.git
 
-If you've forked, update your upstream remote:
+If you've forked, update your upstream remote by:
 * git remote rm upstream
 * git remote add upstream git://github.com/bitovi/canjs.git
 
