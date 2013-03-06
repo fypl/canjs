@@ -1,4 +1,13 @@
-MOVED TO [https://github.com/bitovi/canjs](http://github.com/bitovi/canjs)
+## CanJS distributables
+
+This repository contains the CanJS distributable files available as the
+[Twitter Bower](http://twitter.github.com/bower/) packages and allows you to
+
+	bower install canjs
+
+## CanJS repository
+
+THE CANJS DEVELOPMENT REPOSITORY MOVED TO [https://github.com/bitovi/canjs](http://github.com/bitovi/canjs)
 
 If you've accidentally pulled this repo, be sure to `git reset --hard HEAD~1` and pull from the new origin: `git://github.com/bitovi/canjs.git`
 
